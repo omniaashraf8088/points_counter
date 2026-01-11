@@ -1,16 +1,33 @@
-# bussines_card_app
+📊 Points Counter App (Flutter)
 
-A new Flutter project.
+📌 About
+Points Counter App is a simple Flutter mobile application that allows users to track and update the score for one or more items (e.g., teams, players, events) in real time.
+This app serves as both a fun demo project and a learning resource to understand state management in Flutter.
 
-## Getting Started
+✨ Features
+English
+➕ Increment points
+➖ Decrement points
+🔄 Reset points to zero
+📱 Simple and intuitive UI
+🧠 Learn basic Flutter state management
 
-This project is a starting point for a Flutter application.
+عربي
+➕ زيادة النقاط
+➖ تقليل النقاط
+🔄 إعادة ضبط النقاط للصفر
+📱 واجهة سهلة وبسيطة
+🧠 ممتاز لتعلم إدارة الحالة في Flutter
+🛠️ Technologies Used
+Flutter
+Dart
+Stateful widgets / simple state management
 
-A few resources to get you started if this is your first Flutter project:
+📌 Notes
+This project is a basic Flutter app — perfect for beginners to:
+Practice UI updates based on user interactions
+Learn how state changes refresh the screen
+Expand later with more features (multiple players, persistent storage, animations)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📄 License
+MIT License
